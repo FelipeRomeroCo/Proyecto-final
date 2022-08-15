@@ -1,0 +1,28 @@
+{
+    "task": [
+        {
+            "id": 1,
+            "title": "Crear JSON para el proyecto",
+            "person": "Felipe Romero",
+            "state": "To Do",
+            "deadline": 1661012135,
+            "created": 1660580135
+        },
+        {
+            "id": 2,
+            "title": "Crear 2 JSON para el proyecto",
+            "person": "Felipe Romero",
+            "state": "In Progress",
+            "deadline": 1661012135,
+            "created": 1660580135
+        },
+        {
+            "id": 3,
+            "title": "Crear 3 JSON para el proyecto",
+            "person": "Felipe Romero",
+            "state": "Done",
+            "deadline": 1661012135,
+            "created": 1660580135
+        }
+    ]
+}
